@@ -2,6 +2,7 @@
 \
 Repository of the three stages developed for project of Integration and Processing of Analytical Information course at FCUL.
 \
+\
 **Team:**
 \
 Ana Araujo\
